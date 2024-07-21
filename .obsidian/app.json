@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "vimMode": true
+}

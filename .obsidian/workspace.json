@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "dcb238c3f81fe89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2939fc1fd6a70c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3abf94b48fa10cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe771bf2200ea817",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba923f63b9b33545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d950cbe89d3ec84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b645a562d5565cc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7b26219716cc1e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b7573f7fee42344",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29d87c5284a50fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d97afe11fd9eefa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main/Tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10fbd9d6af9f7855",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main/Tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3dab607b1a40e4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b92fac7452a69e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main/Tools.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "3abf94b48fa10cfe",
+  "lastOpenFiles": [
+    "main/Networking/ARP.md",
+    "main/Networking/Cisco.md",
+    "main/Networking/IP Addresses.md",
+    "main/Networking/MAC Addresses.md",
+    "main/Networking/Network topologies.md",
+    "main/Networking/Network types.md",
+    "main/Networking/OSI_model.md",
+    "main/Networking/Ports.md",
+    "main/Networking/Proxies.md",
+    "main/Networking/VPNs.md",
+    "main/Networking/Main.md",
+    "images/Yersinia_Double_Tagging_VLAN_Hopping_Attack.png",
+    "main/Tools.md",
+    "[[Tools]].md",
+    "images/Yersinia_DTP_Attack.png",
+    "images/Wireshark_VLAN_ID_Filter.png",
+    "images/Wireshark_VLAN_Filter.png",
+    "images/8023_Legacy_8021Q_Ethernet_Frames.webp",
+    "images/NAT_Concept-en.svg.png",
+    "images/Pasted image 20240414201655.png",
+    "images/Pasted image 20240414195425.png",
+    "images/Pasted image 20240414202804.png",
+    "images/217432-understand-ipsec-ikev1-protocol-00.avif",
+    "[.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-06-19.md",
+    "images/common-network-ports-cheat-sheet.pdf",
+    "IP Address.md",
+    "().md",
+    "IP.md",
+    "main",
+    "Public IP.md",
+    "images",
+    "main/Networking",
+    "Welcome.md"
+  ]
+}

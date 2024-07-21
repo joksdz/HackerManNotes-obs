@@ -1,0 +1,12 @@
+{
+  "markdown:toggle-preview": [],
+  "publish:publish-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ]
+}
