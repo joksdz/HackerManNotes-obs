@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2939fc1fd6a70c2b",
+        "id": "0f4986c5ce355283",
         "type": "tabs",
         "children": [
           {
-            "id": "3abf94b48fa10cfe",
+            "id": "73629db8dd73176a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Tools.md",
+                "file": "main/Networking/Network security.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Tools.md",
+                "file": "main/Networking/Network security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Tools.md",
+                "file": "main/Networking/Network security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Tools.md"
+                "file": "main/Networking/Network security.md"
               }
             }
           }
@@ -148,34 +149,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3abf94b48fa10cfe",
+  "active": "73629db8dd73176a",
   "lastOpenFiles": [
-    "main/Networking/ARP.md",
     "main/Networking/Cisco.md",
     "main/Networking/IP Addresses.md",
     "main/Networking/MAC Addresses.md",
+    "main/Networking/Proxies.md",
+    "Untitled.canvas",
+    "main/Tools.md",
+    "main/Networking/Main.md",
+    "main/Networking/Network security.md",
+    "main/Networking/Ports.md",
+    "images/Untitled.png",
+    "images/images.jpg",
+    "images/security-threat_management-f_mobile.png",
+    "images/Untitled 1.png",
+    "main/Cryptography/Cryptography.md",
+    "main/Cryptography",
     "main/Networking/Network topologies.md",
     "main/Networking/Network types.md",
     "main/Networking/OSI_model.md",
-    "main/Networking/Ports.md",
-    "main/Networking/Proxies.md",
+    "main/Networking/ARP.md",
+    "images/pehl18l0.bmp",
     "main/Networking/VPNs.md",
-    "main/Networking/Main.md",
+    "images/tls-ssl-handshake.png",
+    "images/http-vs-https-1.svg",
     "images/Yersinia_Double_Tagging_VLAN_Hopping_Attack.png",
-    "main/Tools.md",
     "[[Tools]].md",
     "images/Yersinia_DTP_Attack.png",
     "images/Wireshark_VLAN_ID_Filter.png",
-    "images/Wireshark_VLAN_Filter.png",
-    "images/8023_Legacy_8021Q_Ethernet_Frames.webp",
-    "images/NAT_Concept-en.svg.png",
-    "images/Pasted image 20240414201655.png",
-    "images/Pasted image 20240414195425.png",
-    "images/Pasted image 20240414202804.png",
-    "images/217432-understand-ipsec-ikev1-protocol-00.avif",
     "[.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "2024-06-19.md",
     "images/common-network-ports-cheat-sheet.pdf",
     "IP Address.md",
