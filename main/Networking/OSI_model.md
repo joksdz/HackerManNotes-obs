@@ -40,7 +40,7 @@ UDP is very fast but also unreliable  since it doesn't use error correction and 
 - its quit flexible since it lets the application layer decides how fast the packets go 
 - unstable connection = GG  your F up 
 ex: video streaming , small data ([DHCP](obsidian://open?vault=TryHackMe_Notes&file=main%2FNetworking%2FIP%20Addresses) ,[[ARP]] protocols )
-unit exchange : TPDU - transport protocol data unit 
+unit exchange : segment 
 ![[Pasted image 20240513162708.png]]
 # layer 3: Network 
 in this layer routing and the reassembly of packets to form data happens ,routing finds the optimal way in which packets should be sent using protocols such as OSPF(Open Shortest Path First ) and RIP (Routing Information Protocol) this happens based on some factors : 

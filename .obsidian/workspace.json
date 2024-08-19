@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4986c5ce355283",
+        "id": "4af1f4e9608ea121",
         "type": "tabs",
         "children": [
           {
-            "id": "73629db8dd73176a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f58e9695df1d63a7",
+            "id": "ef71194761372a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Networking/Client-Server Relations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0feddbd41ec38c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main/Networking/Network Components.md",
+                "file": "main/Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8b7573f7fee42344",
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Networking/Network Components.md",
+                "file": "main/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Networking/Network Components.md",
+                "file": "main/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Networking/Network Components.md"
+                "file": "main/Tools.md"
               }
             }
           }
@@ -172,37 +149,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1d950cbe89d3ec84",
+  "active": "ef71194761372a6e",
   "lastOpenFiles": [
-    "images/Pasted image 20240817151945.png",
-    "main/Networking/Main.md",
-    "main/Networking/Network Components.md",
-    "main/Networking/Client-Server Relations.md",
-    "images/Pasted image 20240817150635.png",
-    "images/Pasted image 20240817145655.png",
-    "main/Networking/Network security.md",
-    "main/Networking/Cisco.md",
-    "main/Networking/IP Addresses.md",
-    "main/Networking/MAC Addresses.md",
+    "main/Networking/VPNs.md",
     "main/Networking/Proxies.md",
-    "Untitled.canvas",
-    "main/Tools.md",
     "main/Networking/Ports.md",
-    "images/Untitled.png",
-    "images/images.jpg",
-    "images/security-threat_management-f_mobile.png",
-    "images/Untitled 1.png",
+    "main/Networking/OSI_model.md",
+    "main/Networking/Network types.md",
+    "main/Networking/Network topologies.md",
+    "main/Networking/Network security.md",
+    "main/Networking/Network Components.md",
+    "main/Networking/Main.md",
+    "main/Networking/MAC Addresses.md",
+    "main/Networking/ISPs.md",
+    "main/Networking/IP Addresses.md",
+    "main/Networking/Client-Server Relations.md",
+    "main/Networking/Cisco.md",
+    "main/Networking/ARP.md",
+    "images/Pasted image 20240818221620.png",
+    "images/Pasted image 20240818220718.png",
+    "images/Pasted image 20240818214058.png",
+    "images/217432-understand-ipsec-ikev1-protocol-00.avif",
+    "images/8023_Legacy_8021Q_Ethernet_Frames.webp",
+    "images/Pasted image 20240419161356.jpg",
+    "images/Pasted image 20240414205453.png",
+    "images/DiffieHellman.png",
+    "images/application-layer.webp",
+    "main/Tools.md",
+    "images/Pasted image 20240817151945.png",
+    "Untitled.canvas",
     "main/Cryptography/Cryptography.md",
     "main/Cryptography",
-    "main/Networking/Network topologies.md",
-    "main/Networking/Network types.md",
-    "main/Networking/OSI_model.md",
-    "main/Networking/ARP.md",
-    "images/pehl18l0.bmp",
-    "main/Networking/VPNs.md",
-    "images/tls-ssl-handshake.png",
-    "images/http-vs-https-1.svg",
-    "images/Yersinia_Double_Tagging_VLAN_Hopping_Attack.png",
     "[[Tools]].md",
     "[.md",
     "Untitled 1.canvas",
