@@ -30,7 +30,7 @@ Communication between devices occurs over RF in the 2.4 GHz or 5 GHz bands in a 
 
 The strength of the RF signal and the distance it can travel are influenced by factors such as the transmitter's power, the presence of obstacles, and the density of RF noise in the environment. So, to ensure reliable communication, WiFi networks use techniques such as spread spectrum transmission and error correction to overcome these challenges.
 
-## wifi Connection
+## Wifi Connection
 
 The device must also be configured with the correct network settings, such as the network name / Service Set Identifier (SSID) and password. So, to connect to the router, the laptop uses a wireless networking protocol called ``IEEE 802.11`` This protocol defines the technical details of how wireless devices communicate with each other and with WAPs. When a device wants to join a WiFi network, it sends a request to the WAP to initiate the connection process. This request is known as a connection request frame or association request and is sent using the ``IEEE 802.11`` wireless networking protocol. The connection request frame contains various fields of information, including the following but not limited to:
 	
@@ -168,3 +168,18 @@ MAC filtering is a security measure that allows a WAP to accept or reject connec
 
 EAP-TLS is a security protocol used to authenticate and encrypt wireless communications. It uses digital certificates and PKI to verify the identity of clients and establish secure connections. Deploying EAP-TLS can help to harden a WAP by providing strong authentication and encryption for wireless communications, which can protect against unauthorized access to the network and the interception of sensitive data.
 
+
+## NFC 
+Near-field communication , NFC devices use electromagnetic fields in order to transmit data , it requires a really short distance between the sender and receiver usually about few centimeters away , its used a lot in cashier registry machines so the buyer can use his cellphone to pay , hotel tags also use NFC to access rooms . 
+
+## Bluetooth 
+
+Bluetooth is a low-power, shorter range wireless technology that is intended to replace wired connectivity for accessories such as speakers, headphones, and microphones. Bluetooth can also be used to connect a smartwatch to a smartphone. Because Bluetooth technology can be used to transmit both data and voice, it can be used to create small local networks. Bluetooth is wireless technology that allows devices to communicate over short distances. Multiple devices can be connected at the same time with Bluetooth.
+## GPS 
+**Global Positioning System**
+
+The GPS uses satellites to transmit signals that cover the globe. The smartphone can receive these signals and calculate the phone’s location to an accuracy of within 10 meters.
+
+
+this shows where wireless tech exist on the electromagnetic spectrum :
+![[Pasted image 20240820142601.png]]
