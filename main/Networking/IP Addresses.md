@@ -265,6 +265,7 @@ it consists of 4 layers :
 4 - network interface 
 at each layer the more information will be added to the packet (encapsulation)
 TCP is a connection-based which means that it need to establish a connection between both devices  before it start sending the data to make sure that every packet that is sent will be received by the host , (for more about the advantages and disadvantages of TCP you can look the up in the [[OSI_model]] layer 4)
+![[Pasted image 20240822200808.png]]
 The TCP packet contains these following headers [Img](obsidian://open?vault=TryHackMe_Notes&file=Pasted%20image%2020240526185059.png)
 ![[Pasted image 20240526185059.png]]
 
