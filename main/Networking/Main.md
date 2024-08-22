@@ -38,3 +38,18 @@ The first "real" network was made by Tim Berners-Lee in 1989 and he made THE Wor
 # what is a network made of ? 
 ## [[Network Components]]
 
+# Why  do protocols matter?
+Computers use rules or protocols in order to communicate with each other , just like we humans use languages 
+Network protocols define many aspects of communication , this includes : 
+
+*! when i mention messages i mean packets 
+
+| Protocol        | description                                                                                                                                                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Message format  | messages sent over a network use specific formats or structure , the message format depends on the message type and the channel that is used to send the message                                                                                                                                              |
+| Message size    | there are strict rules on the size of messages , they can be different depending on the channel used, long messages are broken to small pieces of data                                                                                                                                                        |
+| Timing          | timing is important when speaking of networking since it helps sync the devices that are exchanging info , as well as measuring the speed of which the data was sent                                                                                                                                          |
+| encoding        | messages that are sent over a network are converted into bits by the sending host , each bit is encoded into a pattern of sound , light , electrical impulses on  the network media over which the bits are transmitted , after the message is received the receiver decodes the message in order to use it . |
+| encapsulation   | refer to the [[OSI_model]]                                                                                                                                                                                                                                                                                    |
+| Message pattern | some messages require an ACK message to start the communication process                                                                                                                                                                                                                                       |
+
