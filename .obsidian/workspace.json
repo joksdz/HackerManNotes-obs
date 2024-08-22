@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Networking/Network topologies.md",
+                "file": "main/Networking/Network Components.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8b7573f7fee42344",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Networking/Network topologies.md",
+                "file": "main/Networking/Network Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Networking/Network topologies.md",
+                "file": "main/Networking/Network Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Networking/Network topologies.md"
+                "file": "main/Networking/Network Components.md"
               }
             }
           }
@@ -152,7 +151,9 @@
   },
   "active": "ef71194761372a6e",
   "lastOpenFiles": [
-    "Pasted image 20240820142601.png",
+    "main/Networking/Network security.md",
+    "images/Pasted image 20240820142601.png",
+    "main/Networking/Network topologies.md",
     "main/Networking/IP Addresses.md",
     "main/Networking/Network types.md",
     "main/Tools.md",
@@ -160,8 +161,6 @@
     "main/Networking/Proxies.md",
     "main/Networking/Ports.md",
     "main/Networking/OSI_model.md",
-    "main/Networking/Network topologies.md",
-    "main/Networking/Network security.md",
     "main/Networking/Network Components.md",
     "main/Networking/Main.md",
     "main/Networking/MAC Addresses.md",
@@ -178,7 +177,6 @@
     "images/Pasted image 20240414205453.png",
     "images/DiffieHellman.png",
     "images/application-layer.webp",
-    "images/Pasted image 20240817151945.png",
     "Untitled.canvas",
     "main/Cryptography/Cryptography.md",
     "main/Cryptography",
