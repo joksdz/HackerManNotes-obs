@@ -53,3 +53,6 @@ Network protocols define many aspects of communication , this includes :
 | encapsulation   | refer to the [[OSI_model]]                                                                                                                                                                                                                                                                                    |
 | Message pattern | some messages require an ACK message to start the communication process                                                                                                                                                                                                                                       |
 
+# Network Standards Organization  
+An internet standard is the end result of a cycle of discussion, problem solving and testing , these different standards are developed ,and maintained by a variety of orgs , when developing a new standard the process is recorded in a numbered Request For Comments (RFC) docs so that the evolution of the standard is tracked , RFCs for internet standard are published and managed by the internet Engineering Task Force (IETF)
+![[Pasted image 20240822195017.png]]
