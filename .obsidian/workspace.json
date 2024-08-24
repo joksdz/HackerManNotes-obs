@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Networking/IP Addresses.md",
+                "file": "main/Networking/Network types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Networking/IP Addresses.md",
+                "file": "main/Networking/Network types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Networking/IP Addresses.md",
+                "file": "main/Networking/Network types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Networking/IP Addresses.md"
+                "file": "main/Networking/Network types.md"
               }
             }
           }
@@ -151,33 +151,32 @@
   },
   "active": "ef71194761372a6e",
   "lastOpenFiles": [
-    "images/Pasted image 20240822200808.png",
-    "main/Networking/Main.md",
-    "images/Pasted image 20240822195017.png",
-    "main/Networking/ARP.md",
-    "main/Networking/OSI_model.md",
-    "main/Networking/Network types.md",
-    "main/Networking/ISPs.md",
-    "main/Networking/Client-Server Relations.md",
-    "main/Networking/Ports.md",
-    "main/Networking/Network topologies.md",
     "main/Networking/Network security.md",
-    "main/Networking/Network Components.md",
-    "images/Pasted image 20240820142601.png",
-    "main/Networking/IP Addresses.md",
+    "main/Networking/MAC Addresses.md",
+    "main/Networking/Client-Server Relations.md",
+    "main/Networking/Cisco.md",
+    "images/Firewall-types.jpg",
+    "images/application-layer.webp",
     "main/Tools.md",
     "main/Networking/VPNs.md",
     "main/Networking/Proxies.md",
-    "main/Networking/MAC Addresses.md",
-    "main/Networking/Cisco.md",
+    "main/Networking/Ports.md",
+    "main/Networking/OSI_model.md",
+    "main/Networking/Network types.md",
+    "main/Networking/Network topologies.md",
+    "main/Networking/Network Components.md",
+    "main/Networking/ISPs.md",
+    "main/Networking/IP Addresses.md",
+    "main/Networking/Main.md",
+    "images/Pasted image 20240822200808.png",
+    "images/Pasted image 20240822195017.png",
+    "main/Networking/ARP.md",
+    "images/Pasted image 20240820142601.png",
     "images/Pasted image 20240818221620.png",
     "images/Pasted image 20240818220718.png",
     "images/Pasted image 20240818214058.png",
     "images/217432-understand-ipsec-ikev1-protocol-00.avif",
     "images/8023_Legacy_8021Q_Ethernet_Frames.webp",
-    "images/Pasted image 20240419161356.jpg",
-    "images/Pasted image 20240414205453.png",
-    "images/DiffieHellman.png",
     "Untitled.canvas",
     "main/Cryptography/Cryptography.md",
     "main/Cryptography",
