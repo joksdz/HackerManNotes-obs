@@ -55,4 +55,5 @@ Network protocols define many aspects of communication , this includes :
 
 # Network Standards Organization  
 An internet standard is the end result of a cycle of discussion, problem solving and testing , these different standards are developed ,and maintained by a variety of orgs , when developing a new standard the process is recorded in a numbered Request For Comments (RFC) docs so that the evolution of the standard is tracked , RFCs for internet standard are published and managed by the internet Engineering Task Force (IETF)
+IEEE :  institute of Electrical and Electronic Engineers
 ![[Pasted image 20240822195017.png]]

@@ -31,7 +31,7 @@ Internationally operating network operators provide the infrastructure for `MAN`
 
 #### PAN / WPAN
 
-Modern end devices such as smartphones, tablets, laptops, or desktop computers can be connected ad hoc to form a network to enable data exchange. This can be done by cable in the form of a `Personal Area Network` (`PAN`).
+Modern end devices such as smartphones, tablets, laptops, or desktop computers can be connected and hocked to form a network to enable data exchange. This can be done by cable in the form of a `Personal Area Network` (`PAN`).
 
 The wireless variant `Wireless Personal Area Network` (`WPAN`) is based on Bluetooth or Wireless USB technologies. A `wireless personal area network` that is established via Bluetooth is called `Piconet`. `PAN`s and `WPAN`s usually extend only a few meters and are therefore not suitable for connecting devices in separate rooms or even buildings.
 
