@@ -11,7 +11,7 @@ These methods typically work by allowing the two parties to agree on a `shared s
 
 #### Diffie-Hellman
 
-One common key exchange method is the [Diffie-Hellman key exchange](https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchange/) it requires the two devices agree on a secret key that they can use to decrypt    the data they send to each other . It is often used as the basis for establishing secure communication channels, such as in the [Transport Layer Security](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/) (`TLS`) protocol that is used to protect web traffic. [[OSI_model]]
+One common key exchange method is the [Diffie-Hellman key exchange](https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchange/) it requires the two devices agree on a secret key that they can use to decrypt    the data they send to each other . It is often used as the basic for establishing secure communication channels, such as in the [Transport Layer Security](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/) (`TLS`) protocol that is used to protect web traffic. [[OSI_model]]
 
 One of the main limitations of the `Diffie-Hellman` key exchange is that it is vulnerable to `MITM attacks`. In a MITM attack, we intercept the communication between the two parties and pretend to be one of the parties, generating a different secret key and tricking both parties into using it. This allows the attacker to read and modify the messages sent between the parties.
 
@@ -154,7 +154,7 @@ Once data is encrypted and authenticated, it is then signed with a message authe
 
 Many different authentication protocols are used in networking to verify the identity of devices and users. Those protocols are essential because they provide a secure and standardized way of verifying the identity of users, devices, and other entities in a network. Without authentication protocols, it would be difficult to securely and reliably identify entities in a network, making it easy for attackers to gain unauthorized access and potentially compromise the network.
 
-Authentication protocols also provide a means for securely exchanging information between entities in a network which we will discuss briefly. This is important for ensuring the confidentiality and integrity of sensitive data and preventing unauthorized access and other security threats. Let us take a look at a few most commonly used authentication protocols:
+Authentication protocols also provide a means for securely exchanging information between entities in a network. This is important for ensuring the confidentiality and integrity of sensitive data and preventing unauthorized access and other security threats. Let us take a look at a few most commonly used authentication protocols:
 
 <table class="table table-striped text-left">
 <thead>
@@ -256,7 +256,7 @@ Encryption is used on the Internet to transmit data, such as payment information
 Symmetric encryption, also known as secret key encryption, is a method that uses the same key to encrypt and decrypt the data. This means the sender and the receiver must have the same key to decrypt the data correctly.
 
 If the secret key is shared or lost, the security of the data is no longer guaranteed. Critical actions for symmetric encryption methods represent the distribution, storage, and exchange of the keys. Advanced Encryption Standard ([AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) ) and Data Encryption Standard ([DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard)) are examples of symmetric encryption algorithms. This type of encryption is often used to encrypt large amounts of data, such as files on a hard drive or data sent over a network. AES is considered to be the most secure encryption algorithm nowadays.
-Asymmetric Encryption
+## Asymmetric Encryption
 
 Asymmetric encryption, also known as public-key encryption, is a method of encryption that uses two different keys:
 
