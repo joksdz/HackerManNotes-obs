@@ -20,6 +20,18 @@ a Switch is a network device that connects ==devices== to each other through eth
 # What's a router?
 a router is a device that connects ==networks== (switches) to each other and that how the internet flows ![[Pasted image 20240419165102.png]]
 
+## Ethernet frame 
+![[Pasted image 20240906221804.png]]
+``this image shows what is in the a single ethernet frame  with the amount of bytes in each section 
+the first section is the preamble : this makes sure that the receiver is in sync with the frames coming 
+the second section  start frame delimiter: this tells the receiver that what's after it is the info sent by the sender 
+third section the destination mac address 
+forth is the source (sender) mac address 
+fifth usually the length of the data being sent and could be sometimes the type 
+sixth is the data it self (payload)
+seventh is the frame check sequence this help to check if the frames arrived consecutively its used for error checking 
+the fields of the Internet Protocol version 6 (IPv6) packet identify the source of the packet and its destination
+![[Pasted image 20240906223320.png]]
 # Wireless Networks
 
 Wireless networks are computer networks that use wireless data connections between network nodes. These networks allow devices such as laptops, smartphones, and tablets to communicate with each other and the Internet without needing physical connections such as cables.

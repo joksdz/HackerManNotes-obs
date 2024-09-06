@@ -335,8 +335,6 @@ Firewalls can be hardware , software , software-as-a-service (SaaS) , public clo
 ### Proxy Firewall 
 An early type of firewall device, a proxy firewall serves as the gateway from one network to another for a specific application. Proxy servers can provide additional functionality such as content caching and security by preventing direct connections from outside the network. However, this also may impact throughput capabilities and the applications they can support.
 ![[Untitled.png]]
-
-![[Untitled 1.png]]
 ### stateful inspection Firewall 
 this type of firewall is regarded as the "traditional firewall" , a stateful inspection firewall allows or blocks traffic based on state , port  , protocols . it monitors all the traffic since the establishment of the connection entail its closing , the filtering decisions are made based on rules made  by the admin  as well as context , which refers to using info from previous connections and  packets to the same connection 
 ![[images.jpg]]
@@ -362,7 +360,7 @@ According to Gartner, Inc.’s definition, a next-generation firewall must inclu
 While these capabilities are increasingly becoming the standard for most companies, NGFWs can do more.
 
 ### Threat-focused NGFW
-hese firewalls include all the capabilities of a traditional NGFW and also provide advanced threat detection and remediation. With a threat-focused NGFW you can:
+These firewalls include all the capabilities of a traditional NGFW and also provide advanced threat detection and remediation. With a threat-focused NGFW you can:
 
 - **Know which assets are most at risk** with complete context awareness
 - **Quickly react to attacks** with intelligent security automation that sets policies and hardens your defenses dynamically
@@ -380,7 +378,7 @@ Learn about Cisco virtual firewalls for [public cloud](https://www.cisco.com/c/
 Wired Equivalent Privacy (WEP) and WiFi Protected Access (WPA) are encryption protocols that secure data transmitted over a WiFi network. WPA can use different encryption algorithms, including Advanced Encryption Standard (AES).
 ### WEP
 
-WEP uses a 40-bit or 104-bit key to encrypt data, while WPA using AES uses a 128-bit key. Longer keys provide more robust encryption and are more resistant to attacks. However, it is vulnerable to various attacks that can allow an attacker to decrypt data transmitted over the network. In addition, WEP is not compatible with newer devices and operating systems and is generally no longer considered secure. Finally, WEP uses the RC4 cipher encryption algorithm, which makes it vulnerable to attacks.
+WEP uses a 40-bit or 104-bit key to encrypt data, while WPA using AES uses a 128-bit key. Longer keys provide more robust encryption and are more resistant to attacks. However, it is vulnerable to various attacks that can allow an attacker to decrypt data transmitted over the network. In addition, WEP is not compatible with newer devices and operating systems and is generally no longer considered secure. Finally, WEP uses the [RC4](https://www.geeksforgeeks.org/rc4-encryption-algorithm/) cipher encryption algorithm, which makes it vulnerable to attacks.
 
 However, WEP uses a shared key for authentication, which means the same key is used for encryption and authentication. There are two versions of the WEP protocol:
 
@@ -390,9 +388,11 @@ However, WEP uses a shared key for authentication, which means the same key is u
 WEP-40, also known as WEP-64, uses a 40-bit (secret) key, while WEP-104 uses a 104-bit key. The key is divided into an Initialization Vector (IV) and a secret key.
 
 The IV is a small value included in the packet header along with the encrypted data and is used to create the key for both WEP-40 and WEP-104 and is included to ensure that each key is unique. The secret key is a series of random bits used to encrypt the data. However, the WEP-104 has a 80-bits long secret key. Let us look at the following table to see the differences clearly:
-Protocol 	IV 	Secret Key
-WEP-40/WEP-64 	24-bit 	40-bit
-WEP-104 	24-bit 	80-bit
+
+| Protocol      | IV     | Secret Key |
+| ------------- | ------ | ---------- |
+| WEP-40/WEP-64 | 24-bit | 40-bit     |
+| WEP-104       | 24-bit | 80-bit     |
 
 However, since the IV in WEP is relatively small, we can brute force it, try every possible combination of characters for it, and determine the correct value. Afterward, we can use it to decrypt the data in the packet. This allows us to access the data transmitted over the wireless network and potentially compromise the network's security.
 ### WPA

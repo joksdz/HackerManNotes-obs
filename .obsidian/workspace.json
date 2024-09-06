@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Networking/OSI_model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e38d08989081eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main/Networking/Network security.md",
+                "file": "main/Networking/Network topologies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Networking/Network security.md",
+                "file": "main/Networking/Network topologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Networking/Network security.md",
+                "file": "main/Networking/Network topologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Networking/Network security.md"
+                "file": "main/Networking/Network topologies.md"
               }
             }
           }
@@ -163,34 +149,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5e38d08989081eb1",
+  "active": "114bc26392d27428",
   "lastOpenFiles": [
+    "Pasted image 20240906223320.png",
+    "Pasted image 20240906221804.png",
     "main/Networking/OSI_model.md",
-    "main/Networking/Proxies.md",
-    "main/Networking/MAC Addresses.md",
-    "main/Networking/ISPs.md",
-    "main/Tools.md",
-    "main/Networking/Network security.md",
-    "main/Networking/IP Addresses.md",
-    "main/Networking/Cisco.md",
     "main/Networking/VPNs.md",
+    "images/Wireshark_VLAN_Filter.png",
+    "images/Wireshark_VLAN_ID_Filter.png",
+    "images/wpa2-3843447619.png",
+    "images/Yersinia_DTP_Attack.png",
+    "images/Yersinia_Double_Tagging_VLAN_Hopping_Attack.png",
+    "images/what-is-a-vpn-01.jpg",
+    "images/Untitled 1.png",
+    "main/Networking/Main.md",
+    "main/Tools.md",
+    "main/Networking/ARP.md",
+    "main/Networking/Cisco.md",
+    "main/Networking/Client-Server Relations.md",
+    "main/Networking/IP Addresses.md",
+    "main/Networking/ISPs.md",
+    "main/Networking/Network Components.md",
+    "main/Networking/MAC Addresses.md",
+    "main/Networking/Proxies.md",
     "main/Networking/Ports.md",
     "main/Networking/Network types.md",
     "main/Networking/Network topologies.md",
-    "main/Networking/Network Components.md",
-    "main/Networking/Client-Server Relations.md",
-    "main/Networking/ARP.md",
-    "main/Networking/Main.md",
-    "images/Firewall-types.jpg",
-    "images/application-layer.webp",
-    "images/Pasted image 20240822200808.png",
-    "images/Pasted image 20240822195017.png",
-    "images/Pasted image 20240820142601.png",
-    "images/Pasted image 20240818221620.png",
-    "images/Pasted image 20240818220718.png",
-    "images/Pasted image 20240818214058.png",
-    "images/217432-understand-ipsec-ikev1-protocol-00.avif",
-    "images/8023_Legacy_8021Q_Ethernet_Frames.webp",
+    "main/Networking/Network security.md",
+    "images/images.jpg",
+    "images/Untitled.png",
     "Untitled.canvas",
     "main/Cryptography/Cryptography.md",
     "main/Cryptography",

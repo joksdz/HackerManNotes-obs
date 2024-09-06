@@ -5,6 +5,7 @@ The first "real" network was made by Tim Berners-Lee in 1989 and he made THE Wor
 - public network 
 - private network 
 - ## [[Client-Server Relations]]
+- ## [[Network types]]
 
 # How do we identify a device in a network ? 
 
@@ -15,7 +16,7 @@ The first "real" network was made by Tim Berners-Lee in 1989 and he made THE Wor
 
 # How do we make a network ?
 ## [[Network topologies]]
-## [[Network types]]
+
 
 # How does the network work? 
 ## [[OSI_model]]
