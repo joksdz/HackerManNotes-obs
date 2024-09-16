@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Networking/Network topologies.md",
+                "file": "main/Networking/Network security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Networking/Network topologies.md",
+                "file": "main/Networking/Network security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Networking/Network topologies.md",
+                "file": "main/Networking/Network security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Networking/Network topologies.md"
+                "file": "main/Networking/Network security.md"
               }
             }
           }
@@ -149,11 +149,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "1d950cbe89d3ec84",
+  "active": "114bc26392d27428",
   "lastOpenFiles": [
+    "main/Networking/OSI_model.md",
+    "main/Networking/Network types.md",
+    "main/Networking/IP Addresses.md",
+    "main/Networking/Network topologies.md",
     "images/Pasted image 20240906223320.png",
     "Pasted image 20240906221804.png",
-    "main/Networking/OSI_model.md",
     "main/Networking/VPNs.md",
     "images/Wireshark_VLAN_Filter.png",
     "images/Wireshark_VLAN_ID_Filter.png",
@@ -167,17 +170,13 @@
     "main/Networking/ARP.md",
     "main/Networking/Cisco.md",
     "main/Networking/Client-Server Relations.md",
-    "main/Networking/IP Addresses.md",
     "main/Networking/ISPs.md",
     "main/Networking/Network Components.md",
     "main/Networking/MAC Addresses.md",
     "main/Networking/Proxies.md",
     "main/Networking/Ports.md",
-    "main/Networking/Network types.md",
-    "main/Networking/Network topologies.md",
     "main/Networking/Network security.md",
     "images/images.jpg",
-    "images/Untitled.png",
     "Untitled.canvas",
     "main/Cryptography/Cryptography.md",
     "main/Cryptography",
