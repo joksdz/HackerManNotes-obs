@@ -1,4 +1,4 @@
-IP is a short for internet protocol , IP addresses lets us identify a device for a short period of time so as when we disconnect our device another device can use the same IP address later 
+0IP is a short for internet protocol , IP addresses lets us identify a device for a short period of time so as when we disconnect our device another device can use the same IP address later 
 An **IP** address is a set of numbers that are divided into four octets. The value of each octet will summaries to be the IP address of the device on the network. This number is calculated through a technique known as [IP addressing & subnetting](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
 `IANA` :Internet Assigned Numbers Authority (`IANA`) is responsible for assigning IPv4 and IPv6 addresses and their associated network portions
 
