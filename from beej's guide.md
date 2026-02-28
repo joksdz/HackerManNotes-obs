@@ -47,3 +47,50 @@ Why are they connectionless? Well, basically, it’s because you don’t have to
 Generally you will find programs that use UDP build other things on top of it ,for example *QUIC* protocol which is used by Google,tftp also does the same thing ,usually this works by sending back the ACK packet if the sender doesn't get it it will resend the last packets  
 
 **Example of Datagram Sockets**: DNS, DHCP, SNMP, TFTP, NTP, etc.
+
+## Network theory and the low level stuff 
+### encapsulation : 
+ a packet is born, the packet is wrapped (“encapsulated”) in a header (and rarely a footer) by
+the first protocol (say, the TFTP protocol), then the whole thing (TFTP header included) is encapsulated
+again by the next protocol (say, UDP), then again by the next (IP), then again by the final protocol on
+the hardware (physical) layer (say, Ethernet).
+When another computer receives the packet, the hardware strips the Ethernet header, the kernel strips
+the IP and UDP headers, the TFTP program strips the TFTP header, and it finally has the data
+
+its also mentioned here : [[IP Addresses]]
+
+ basically wrapping it in headers 
+![[pehl18l0.bmp]]
+### OSI model :
+
+all you need to know is here : [[OSI_model]]
+
+All you have to do for stream sockets is send() the data out.
+All you have to do for datagram sockets is encapsulate the packet in the method of your choosing and
+sendto() it out. The kernel builds the Transport Layer and Internet Layer on for you and the hardware
+does the Network Access Laye
+
+
+## IP addresses : 
+![[IP Addresses]]
+
+
+
+![[Ports]]
+
+### byte order (the endians)
+everyone in the Internet world has generally agreed that if you want to represent the two-byte hex number, say `b34f`, you’ll store it in two sequential bytes `b3` followed by `4f`. Makes sense,This number, stored with the big end first, is called Big-Endian.
+
+anything with an Intel or Intel-compatible processor, store the bytes reversed, so `b34f` would be stored in memory as the sequential bytes `4f` followed by `b3`. This storage method is called Little-Endian.
+
+*How would you know how to send them ?*
+You just get to assume the Host Byte Order isn’t right, and you always run the value
+through a function to set it to Network Byte Order. The function will do the magic conversion if it has
+to, and this way your code is portable to machines of differing endianness.
+
+here are two types of numbers that you can convert: short (two bytes) and long (four bytes).
+These functions work for the unsigned variations as well. Say you want to convert a short from Host
+Byte Order to Network Byte Order. Start with “h” for “host”, follow it with “to”, then “n” for “network”,
+and “s” for “short”: h-to-n-s, or htons().
+
+![[Pasted image 20260228165506.png]]

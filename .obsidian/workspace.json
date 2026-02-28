@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Networking/OSI_model.md",
+                "file": "from beej's guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,12 +47,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "OSI_model"
+              "title": "from beej's guide"
             }
           }
         ],
@@ -206,16 +206,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "25dd66039c871779",
+  "active": "1d950cbe89d3ec84",
   "lastOpenFiles": [
+    "images/Pasted image 20260228165506.png",
     "main/Networking/Ports.md",
+    "from beej's guide.md",
+    "main/Networking/IP Addresses.md",
+    "main/Networking/OSI_model.md",
     "main/Networking/Proxies.md",
     "main/Networking/VPNs.md",
     "main/Tools.md",
-    "from beej's guide.md",
     "main/Networking/Network types.md",
     "README.md",
-    "main/Networking/IP Addresses.md",
     "Untitled.base",
     "main/Networking/Network topologies.md",
     "main/Networking/Network security.md",
@@ -227,7 +229,6 @@
     "main/Networking/ARP.md",
     "main/Networking/Main.md",
     "images/common-network-ports-cheat-sheet.pdf",
-    "main/Networking/OSI_model.md",
     "images/Pasted image 20240906223320.png",
     "Pasted image 20240906221804.png",
     "images/Wireshark_VLAN_Filter.png",
@@ -249,7 +250,6 @@
     "().md",
     "IP.md",
     "main",
-    "Public IP.md",
     "images",
     "main/Networking"
   ]
